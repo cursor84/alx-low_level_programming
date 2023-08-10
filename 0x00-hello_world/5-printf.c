@@ -1,5 +1,7 @@
 #include <stdio.h>
-/*C program using printf and returning the value 0*/
+/**
+ *C program using printf and returning the value 0
+*/
 
 int main(void)
 {
