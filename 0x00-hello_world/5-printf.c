@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- *C program using printf and returning the value 0
-*/
+ * main - Entry point
+ *
+ * Return: always 0
+ */
 
 int main(void)
 {
