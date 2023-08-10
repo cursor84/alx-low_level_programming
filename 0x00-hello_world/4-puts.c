@@ -1,6 +1,8 @@
 #include <stdio.>
 
-/*Program that returns value 0 and input statement*/
+/**
+ *Program that returns value 0 and input statement
+*/
 
 int main(void)
 {
