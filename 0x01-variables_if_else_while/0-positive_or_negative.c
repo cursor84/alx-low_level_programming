@@ -10,7 +10,7 @@
  */
 int main(void)
 {
-        /*Variable declaration*/
+       
 	int n;
 
 	srand(time(0));
