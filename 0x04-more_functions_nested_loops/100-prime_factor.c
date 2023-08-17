@@ -8,7 +8,7 @@
   */
 int main(void)
 {
-        long x, maxprime;
+	long x, maxf;
 	long number = 612852475143;
 	double square = sqrt(number);
 
@@ -16,11 +16,11 @@ int main(void)
 	{
 		if (number % x == 0)
 		{
-			maxprime = number / x;
+			maxf = number / x;
 		}
 	}
 
-	printf("%ld\n", maxprime);
+	printf("%ld\n", maxf);
 
 	return (0);
 }
